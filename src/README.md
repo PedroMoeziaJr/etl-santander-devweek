@@ -1,4 +1,4 @@
-# ETL – Santander Dev Week (Versão Simplificada)
+# ETL – Santander Dev Week 
 
 Este projeto implementa um fluxo **ETL (Extração, Transformação e Carregamento)** utilizando Python, inspirado no desafio da Santander Dev Week.  
 O objetivo é demonstrar a construção de um pipeline simples e funcional, ideal para portfólios de Ciência de Dados.
